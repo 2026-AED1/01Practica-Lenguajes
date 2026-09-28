@@ -1,0 +1,31 @@
+# Compilados C++
+*.o
+*.obj
+*.exe
+*.out
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Java
+*.class
+*.jar
+out/
+bin/
+
+# Editores e IDEs
+.vscode/
+.vs/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Sistema
+.DS_Store
+Thumbs.db
