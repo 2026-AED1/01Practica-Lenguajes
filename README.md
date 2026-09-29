@@ -5,7 +5,7 @@
 **Duración**: 2 h en clase + 1 h en casa
 **Peso**: 5% de la nota del bloque
 
-> Este es el **enunciado**: qué hay que hacer. La explicación paso a paso de la sesión está en las transparencias (`transparencias/`).
+> Este es el **enunciado**: qué hay que hacer. La explicación paso a paso de la sesión está en las diapositivas (`diapositivas/`).
 
 ---
 
